@@ -42,7 +42,7 @@
 
 ### Tools
 
-Есть опыт использования Figma и Photopea для работы с дизайн-макетами. Использую редактор Visual Studio Code с плагинами Emmet и Prettier.
+Есть опыт использования Figma и Photopea для работы с дизайн-макетами. Использую редактор Visual Studio Code с плагинами [Emmet](certification/stepik-certificate-113654-f03cc9a.pdf) и Prettier.
 
 ## Образование
 
