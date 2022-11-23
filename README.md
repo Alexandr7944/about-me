@@ -8,6 +8,7 @@
 ## Контакты
 
 - Телефон: +7 918 916 7944;
+- Мой Telegram: @sane_vasne;
 - email: a.s.vasnev88@yandex.ru.
 
 ## Навыки
