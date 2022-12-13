@@ -1,5 +1,5 @@
 ## Васнев Александр Сергеевич
-## Начинающий Frontend-разработчик
+## Frontend-разработчик
 
 ![Моя фотография](img/DSC03529.jpg)
 
@@ -8,7 +8,7 @@
 ## Контакты
 
 - Телефон: +7 918 916 7944;
-- Мой Telegram: @sane_vasne;
+- Мой Telegram: @vasnev_a;
 - email: a.s.vasnev88@yandex.ru.
 
 ## Навыки
@@ -20,7 +20,7 @@
 - умею работать с DOM элементами;
 - умею работать с асинхронными функциями, функциями декораторами, классами;
 - использую современные возможности ES6;
-- [ДЗ по модулю](https://github.com/Alexandr7944/bjs-2-homeworks).
+- [Проект 1](https://github.com/Alexandr7944/bhj-diploma), [Проект 2](https://github.com/Alexandr7944/bjs-diploma), [Проект 3](https://replit.com/@AlieksandrVasni/Diplom-startovyi-kod#logic.js).
 
 ### CSS
 
