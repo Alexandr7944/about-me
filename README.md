@@ -20,7 +20,7 @@
 - умею работать с DOM элементами;
 - умею работать с асинхронными функциями, функциями декораторами, классами;
 - использую современные возможности ES6;
-- [Проект 1](https://github.com/Alexandr7944/bhj-diploma), [Проект 2](https://github.com/Alexandr7944/bjs-diploma), [Проект 3](https://replit.com/@AlieksandrVasni/Diplom-startovyi-kod#logic.js).
+- [Проект 1](https://github.com/Alexandr7944/bhj-diploma), [Проект 2](https://github.com/Alexandr7944/bjs-diplom), [Проект 3](https://replit.com/@AlieksandrVasni/Diplom-startovyi-kod#logic.js).
 
 ### CSS
 
